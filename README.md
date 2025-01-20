@@ -1,5 +1,10 @@
 # Stanford CS231n Assignments (2021 Version)
 
+**언어 선택 / Language Selection:**
+
+- [🇺🇸 English](README.md)
+- [🇰🇷 한국어 (Korean)](README.ko.md)
+
 This repository contains my solutions to the assignments from Stanford's **CS231n: Convolutional Neural Networks for Visual Recognition** course (Spring 2017), completed using the 2021 assignment version.
 
 ## About the Course
