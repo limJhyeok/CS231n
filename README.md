@@ -19,6 +19,7 @@ If you're passionate about artificial intelligence, this course is an excellent 
 Useful links:
 
 📹 [Lecture Videos (Spring 2017)](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
 📖 [Official Course Website](https://cs231n.github.io/)
 
 ## ⚠️ Caution
